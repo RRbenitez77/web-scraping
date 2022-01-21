@@ -11,8 +11,6 @@ Utilized Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter for Scra
 ### NASA Mars News
 ![Screen Shot 2022-01-20 at 9 45 18 PM](https://user-images.githubusercontent.com/33403205/150458612-16186ca1-f45e-4500-be7b-ca981124915b.png)
 
-* 
-
 * Splinter was used to navigate the site [here](https://spaceimages-mars.com) to find the image url for the current Featured Mars Image and assigned the url string to a variable named `featured_image_url`.
 
 
@@ -20,12 +18,6 @@ Utilized Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter for Scra
 * Pandas was used  to convert the data to a HTML table string and to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
 ![Screen Shot 2022-01-20 at 9 47 41 PM](https://user-images.githubusercontent.com/33403205/150458621-6ec87da3-00ac-45f1-aded-6b1f5616b2a3.png)
-
-
-### Mars Hemispheres
-
-* Visit the astrogeology site [here](https://marshemispheres.com/) to obtain high resolution images for each of Mar's hemispheres.
-
 
 ## Next  - MongoDB and Flask Application
 
